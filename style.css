@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+img {
+    height: 145px;
+}
+
+#grid {
+    font-family: 'Nerko One', cursive;
+    background-color: aquamarine;
+}
+
+#sliding {
+    font-family: 'Nerko One', cursive;
+    background-color: aquamarine;
+}
+
+#banner {
+    width: 1000px;
+    height: 417px;
+}
